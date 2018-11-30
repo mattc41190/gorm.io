@@ -5,7 +5,7 @@ layout: page
 
 ## gorm.Model
 
-`gorm.Model` is a struct including some basic fields, which including fields `ID`, `CreatedAt`, `UpdatedAt`, `DeletedAt`.
+`gorm.Model` is a struct including some basic fields, which includes the following fields `ID`, `CreatedAt`, `UpdatedAt`, `DeletedAt`.
 
 It could be embeded into your model or build your own model w/o it.
 
